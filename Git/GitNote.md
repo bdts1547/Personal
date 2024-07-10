@@ -25,3 +25,6 @@ git stash 1
 git stash 1
 git stash 1
 git stash 1
+
+test git stash 1
+test git stash 2
