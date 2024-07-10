@@ -20,4 +20,8 @@
     git push origin --delete v1.x.x // remote
 ```
 
-
+git stash 1
+git stash 1
+git stash 1
+git stash 1
+git stash 1
